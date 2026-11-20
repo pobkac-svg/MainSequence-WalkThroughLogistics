@@ -1,0 +1,6 @@
+*.zip
+*.dll
+*.pak
+*.utoc
+*.ucas
+.env*
